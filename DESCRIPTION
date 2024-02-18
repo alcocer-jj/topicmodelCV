@@ -1,0 +1,10 @@
+Package: topicmodelCV
+Type: Package
+Title: 10-Fold Cross-Validation for Topic Modeling
+Version: 0.1.0
+Author: José Javier Alcocer
+Maintainer: Alcocer@usc.edu
+License: Creative Commons Attribution-ShareAlike International License.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
